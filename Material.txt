@@ -1,6 +1,7 @@
 [Material]
 [Git]
-tutorial : https://github.com/doggy8088/Learn-Git-in-30-days/notifications
+tutorial : https://github.com/doggy8088/Learn-Git-in-30-days/tree/master/zh-tw
+(01-04天就夠用了，04很重要)
 install : https://git-scm.com/book/zh-tw/v1/%E9%96%8B%E5%A7%8B-%E5%AE%89%E8%A3%9DGit
 [iOS swift]
 Learning iOS swift : http://www.codedata.com.tw/mobile/swift-tutorial-class-1-xcode-helloworld 
