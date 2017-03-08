@@ -7,6 +7,10 @@
 [tutorial](https://github.com/doggy8088/Learn-Git-in-30-days/tree/master/zh-tw)
 ###iOS swift
 [Learning iOS swift](http://www.codedata.com.tw/mobile/swift-tutorial-class-1-xcode-helloworld)
+
+
+
+
 [north seven Ninja](https://github.com/BakerLi/Ninja)
 ###iOS SpriteKit
 [官方文件-英文](https://developer.apple.com/library/content/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Physics/Physics.html)  
