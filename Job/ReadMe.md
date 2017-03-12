@@ -16,24 +16,25 @@ Next meeting : 3/26 ?
   * UI自行發揮XD
 
 ### 里長
-* Unity
-  * 介紹 & 使用 Unity 
+* 購物車
+  * 搜尋各個source code
+  * Summarize作法
+  * 做一個購物車
 * google cloud
   * 介紹 & 使用
-* 購物車
-  * 搜尋各個source code
-  * Summarize作法
-  * 做一個購物車
+* Unity
+  * 介紹 & 使用 Unity 
 
 ### 扁扁
-* Flask&SQLite
-  * 介紹 & 使用
-* Swift & Sprite kit
-  * 介紹 & 使用
 * 購物車
   * 搜尋各個source code
   * Summarize作法
   * 做一個購物車
+* Swift & Sprite kit
+  * 介紹 & 使用
+* Flask&SQLite
+  * 介紹 & 使用
+
   
 ### 鼻子
 * Swift UI 
