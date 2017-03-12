@@ -8,8 +8,7 @@
 ###iOS swift
 [Learning iOS swift](http://www.codedata.com.tw/mobile/swift-tutorial-class-1-xcode-helloworld)
 
-
-
+[Learing_swift_in_30days_include_source_code](https://github.com/allenwong/30DaysofSwift)
 
 [north seven Ninja](https://github.com/BakerLi/Ninja)
 ###iOS SpriteKit
