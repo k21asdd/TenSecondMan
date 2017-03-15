@@ -12,5 +12,6 @@
 
 [north seven Ninja](https://github.com/BakerLi/Ninja)
 ###iOS SpriteKit
+[官方教學-英文](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)  
 [官方文件-英文](https://developer.apple.com/library/content/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Physics/Physics.html)  
 [How To Build A SpriteKit Game-感覺簡單好懂](https://www.smashingmagazine.com/2016/11/how-to-build-a-spritekit-game-in-swift-3-part-1/)  
