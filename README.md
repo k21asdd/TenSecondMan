@@ -18,4 +18,5 @@
 [How To Build A SpriteKit Game-感覺簡單好懂](https://www.smashingmagazine.com/2016/11/how-to-build-a-spritekit-game-in-swift-3-part-1/)  
 
 ### Android
-[List-Fragment-簡中example](http://www.cnblogs.com/smyhvae/p/4000483.html)
+[List-Fragment-簡中-easy-example](http://www.cnblogs.com/smyhvae/p/4000483.html)
+[Fragment-簡中-跟我們要的很像](http://blog.csdn.net/lmj623565791/article/details/37970961)
